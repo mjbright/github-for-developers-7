@@ -11,3 +11,4 @@ My bio
 
 **A Hobby**: Dock
 
+**Favourite Colour**: Red
